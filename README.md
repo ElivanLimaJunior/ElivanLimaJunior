@@ -1,9 +1,9 @@
 ### Olá, eu me chamo Elivan. Muito prazer! 👋
 
 
-- 🔭 Hoje estou aprendendo Front-End
+- 🔭 Cursando ADS e estudando Front-End
 - 🌱 Estudando na Alura
-- 😄 Pronouns: Eu/Ela
+- 😄 Desistir nunca !
 - ⚡ Fact: A hora de começar é agora!
 
 <div align="">
