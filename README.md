@@ -11,7 +11,7 @@
   <img height="180em" width="48%vw" src="https://github-readme-stats.vercel.app/api?username=ElivanLimaJunior&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="190em" width="48%vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElivanLimaJunior&layout=compact&langs_count=7&theme=radical"/>
 </div>
-  <div margin-button="16px" align="center" style="display: inline_block"><br>
+  <div padding="16px" align="center" style="display: inline_block"><br>
   <img align="center" alt="Elivan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Elivan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Elivan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
