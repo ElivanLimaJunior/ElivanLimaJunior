@@ -3,8 +3,6 @@
 
 - 🔭 Cursando ADS e estudando Front-End
 - 🌱 Estudando na Alura
-- 😄 Desistir nunca !
-- ⚡ Fact: A hora de começar é agora!
 
 <div align="">
   <a href="https://github.com/ElivanLimaJunior">
