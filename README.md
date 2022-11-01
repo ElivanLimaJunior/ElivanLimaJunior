@@ -4,6 +4,8 @@
 - 🔭 Cursando ADS e estudando Front-End
 - 🌱 Estudando na Alura
 
+<div align="">Estas são as tecnologias que estou estudando.</div>
+
 <div align="">
   <a href="https://github.com/ElivanLimaJunior">
   <img height="180em" width="48%vw" src="https://github-readme-stats.vercel.app/api?username=ElivanLimaJunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
