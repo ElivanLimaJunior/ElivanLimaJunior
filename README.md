@@ -1,8 +1,9 @@
-# Elivan José Do N. Lima Junior (Elivan Junior)
+# Elivan José Do N. Lima Junior
 
 
-- 🔭 Cursando ADS e estudando Front-End
-- 🌱 Estudando na Alura
+👨‍💻 Desenvolvedor Front-End 
+
+___
 
 <div align="center">Estas são as tecnologias que estou estudando:</div>
 
