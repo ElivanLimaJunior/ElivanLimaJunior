@@ -3,9 +3,10 @@
 
 👨‍💻 Desenvolvedor Front-End 
 
-___
 
 <div align="center">Estas são as tecnologias que estou estudando:</div>
+
+___
 
 <div align="">
   <a href="https://github.com/ElivanLimaJunior">
