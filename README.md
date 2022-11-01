@@ -4,7 +4,7 @@
 - 🔭 Cursando ADS e estudando Front-End
 - 🌱 Estudando na Alura
 
-<div align="">Estas são as tecnologias que estou estudando.</div>
+<div align="center">Estas são as tecnologias que estou estudando:</div>
 
 <div align="">
   <a href="https://github.com/ElivanLimaJunior">
