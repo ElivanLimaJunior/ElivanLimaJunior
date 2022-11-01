@@ -1,10 +1,10 @@
-### Olá, eu me chamo Elivan. Muito prazer! 👋
+# Elivan José Do N. Lima Junior (Elivan Junior)
 
 
 - 🔭 Cursando ADS e estudando Front-End
 - 🌱 Estudando na Alura
 
-<div align="center" margin-bottom="16">Estas são as tecnologias que estou estudando:</div>
+<div align="center">Estas são as tecnologias que estou estudando:</div>
 
 <div align="">
   <a href="https://github.com/ElivanLimaJunior">
