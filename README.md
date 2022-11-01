@@ -7,7 +7,7 @@
 <br>
 
 ___
-<div align="center">Estas são as tecnologias que estou estudando:</div>
+<div align="center"><b>Estas são as tecnologias que estou estudando:<b></div>
 
 ___
 
@@ -37,4 +37,12 @@ ___
     <br>
 <div align="center">
   <img height="300em" width="700px" src="https://i.pinimg.com/originals/9c/35/6c/9c356c9ded0c8d64958ca64d8473ebf1.gif">
+</div>
+
+    
+<div align="center">
+  <br>
+  <p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ElivanLimaJunior}/count.svg" /></p> 
+  <br>
 </div>
