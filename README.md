@@ -1,8 +1,8 @@
 # Elivan José Do N. Lima Junior
 
 <div align="">
-👨‍🎓 Estudante de ADS <br>
-👨‍💻 Desenvolvedor Front-End 
+👨‍🎓 Formado em ADM, Estudando Engenharia de Produção <br>
+👨‍💻 Developer
 </div>
 <br>
 
