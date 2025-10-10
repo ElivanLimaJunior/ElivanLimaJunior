@@ -1,36 +1,75 @@
-# Elivan José Do N. Lima Junior
+## Olá, meu nome é Elivan!
 
-<div align="">
-👨‍🎓 Formado em ADM, Estudando Engenharia de Produção <br>
-👨‍💻 Developer
-</div>
-<br>
+### 💼 Portfólio
+
+Acesse meu portfólio:
+👉 [elivan-portifolio-ds.vercel.app](https://elivan-portifolio-ds.vercel.app)
+
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+        <img
+          align="left"
+          src="https://github-readme-stats.vercel.app/api?username=elivanlimajunior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github"
+          alt="Elivan Lima Junior GitHub Stats"
+        />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=elivanlimajunior&hide=html&layout=compact&theme=tokyonight"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=elivanlimajunior&theme=tokyonight&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
 ___
+
+
 <div align="center"><b>Estas são as tecnologias que estou estudando:<b></div>
-
+  
 ___
 
-<div align="">
-  <a href="https://github.com/ElivanLimaJunior">
-  <img height="180em" width="48%vw" src="https://github-readme-stats.vercel.app/api?username=ElivanLimaJunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img height="190em" width="48%vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElivanLimaJunior&layout=compact&langs_count=7&theme=radical"/>
-</div>
-  <div padding="16px" align="center" style="display: inline_block"><br>
+
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Elivan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Elivan-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Elivan-NumPy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Elivan-Matplotlib" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
+  <img align="center" alt="Elivan-SQL" height="30" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
+  <img align="center" alt="Elivan-Excel" height="30" width="40" src="https://www.svgrepo.com/show/373589/excel.svg">
+  <img align="center" alt="Elivan-Jupyter" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg">
+  <img align="center" alt="Elivan-PowerBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
   <img align="center" alt="Elivan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Elivan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Elivan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Elivan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Elivan-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  <img align="center" alt="Elivan-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Elivan-Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  <img align="center" alt="Elivan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <br>
+</div>
+
+
 ___    
-<div align="center" padding="16px"> 
- 	<a href="https://www.twitch.tv/elivan_junior" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "elivanlimajunior@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/elivanjunior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<h3 align="center">🌐 Minhas Redes</h3>
+
+<div align="center">
+  <a href="mailto:elivanlimajunior@gmail.com" target="_blank">
+    <img align="center" alt="Gmail" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
+  </a>
+  <a href="https://www.linkedin.com/in/elivanjunior" target="_blank">
+    <img align="center" alt="LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+  </a>
+  <a href="https://www.instagram.com/ei.elivan" target="_blank">
+    <img align="center" alt="Instagram" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png">
+  </a>
 </div>
     <br>
 <div align="center">
