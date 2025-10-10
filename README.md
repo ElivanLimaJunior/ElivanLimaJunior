@@ -1,12 +1,13 @@
 ## Olá, meu nome é Elivan!
 
+
 ### 💼 Portfólio
 
 Acesse meu portfólio:
 👉 [elivan-portifolio-ds.vercel.app](https://elivan-portifolio-ds.vercel.app)
-
+<br><br>
 ### ⚙️ GitHub Analytics
-
+<br>
 <table>
   <tr>
     <td>
@@ -33,15 +34,9 @@ Acesse meu portfólio:
     </td>
   </tr>
 </table>
-
-___
-
-
+<br><br>
 <div align="center"><b>Estas são as tecnologias que estou estudando:<b></div>
-  
-___
-
-
+  <br>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Elivan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Elivan-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
@@ -59,7 +54,6 @@ ___
 
 ___    
 <h3 align="center">🌐 Minhas Redes</h3>
-
 <div align="center">
   <a href="mailto:elivanlimajunior@gmail.com" target="_blank">
     <img align="center" alt="Gmail" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
@@ -75,11 +69,6 @@ ___
 <div align="center">
   <img height="300em" width="700px" src="https://i.pinimg.com/originals/9c/35/6c/9c356c9ded0c8d64958ca64d8473ebf1.gif">
 </div>
+<br>
 
-    
-<div align="center">
-  <br>
-  <p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ElivanLimaJunior}/count.svg" /></p> 
-  <br>
-</div>
+
