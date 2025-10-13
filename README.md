@@ -24,14 +24,14 @@ Acesse meu portfólio:
         alt="Github Stats"
       />
     </td>
-    <td>
+    <!-- <td>
       <br />
       <img
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=elivanlimajunior&theme=tokyonight&hide_border=false"
         alt="Github Stats"
       />
-    </td>
+    </td> -->
   </tr>
 </table>
 <br><br>
