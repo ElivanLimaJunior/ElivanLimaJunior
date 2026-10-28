@@ -1,66 +1,74 @@
-<div align="center">
+ <div align="center">
 
 # Elivan Lima Junior
 
-### Business Intelligence | Data Engineering
+### AI Applications | Intelligent Agents | Automation
 
-[🌐 Portfólio](https://elivan-portifolio-ds.vercel.app) •
-[💼 LinkedIn](https://www.linkedin.com/in/elivanjunior) •
-[📧 E-mail](mailto:elivanjosejunior@gmail.com)
+Desenvolvendo soluções inteligentes para conectar IA, dados e processos de negócio.
 
-</div>
-
----
-
-## 👨‍💻 Sobre
-
-Sou **Analista de Processos** com atuação em **Business Intelligence, automação e análise de dados**. Tenho experiência no desenvolvimento de dashboards em **Power BI**, criação e acompanhamento de **KPIs**, modelagem de dados e otimização de processos utilizando dados como suporte à tomada de decisão.
-
-Atualmente estou direcionando minha carreira para **Engenharia de Dados**, aprofundando meus conhecimentos em **Python, SQL, ETL/ELT, bancos de dados e arquiteturas modernas de dados**.
-
-Tenho interesse em construir soluções que conectem **dados, tecnologia e processos**, transformando informações em insights e melhorias operacionais.
-
-## 🚀 Tecnologias e Ferramentas
-
-- 📊 Power BI
-- 📈 Excel Avançado
-- 🐍 Python
-- 🗄️ SQL
-- 🔄 Power Query
-- 📋 DAX
-- ⚙️ Power Automate
-- 🔗 n8n
-- 🌐 Git & GitHub
-
-## 📚 Atualmente estudando
-
-- Engenharia de Dados
-- Modelagem de Dados
-- ETL e ELT
-- Bancos de Dados Relacionais
-- Computação em Nuvem (Azure)
-- Automação de processos com **Power Automate** e **n8n**
-- Processamento e organização de dados com Python
-
-## 🛠️ Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=flat&logo=anthropic&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+[🌐 Portfólio](https://elivan-portifolio-ds.vercel.app) • [💼 LinkedIn](https://www.linkedin.com/in/elivanjunior) • [📧 E-mail](mailto:elivanjosejunior@gmail.com)
 
 </div>
 
 ---
+
+## 👨‍💻 Sobre mim
+
+Sou profissional de tecnologia com experiência em **análise de processos, Business Intelligence, automação e desenvolvimento de soluções para negócios**.
+
+Atualmente, direciono minha carreira para **Inteligência Artificial aplicada, desenvolvimento de agentes inteligentes e automação de processos**, explorando maneiras de integrar modelos de linguagem, APIs, dados e ferramentas para resolver problemas reais.
+
+Minha experiência com Power BI, Python, SQL e plataformas de automação me permite combinar visão analítica e conhecimento de processos na construção de soluções tecnológicas.
+
+Tenho interesse especial em aplicações com IA generativa, sistemas baseados em RAG, agentes capazes de utilizar ferramentas e workflows inteligentes que aumentem a produtividade e reduzam atividades manuais.
+
+Acredito no uso da IA como uma ferramenta de engenharia: não apenas para gerar respostas ou código, mas para desenvolver soluções úteis, confiáveis e sustentáveis.
+
+## 🚀 Áreas de interesse
+
+- Inteligência Artificial aplicada a negócios
+- Desenvolvimento de aplicações com LLMs
+- Engenharia de agentes de IA
+- Automação inteligente de processos
+- RAG e sistemas de consulta a bases de conhecimento
+- Integração de APIs e ferramentas
+- Desenvolvimento assistido por IA
+- Business Intelligence e análise de dados
+
+## 🛠️ Tecnologias e ferramentas
+
+**Inteligência Artificial**
+- Modelos de linguagem (LLMs) e IA generativa
+- Engenharia de prompts
+- RAG, embeddings e bancos vetoriais
+- LangChain e LangGraph
+- MCP e integração de ferramentas
+
+**Desenvolvimento**
+- Python
+- APIs REST
+- Git e GitHub
+- SQL e bancos de dados relacionais
+- JavaScript e React
+
+**Automação e produtividade**
+- n8n
+- Microsoft Power Automate
+- Integração entre sistemas e serviços
+- Automação de workflows
+
+**Dados e Business Intelligence**
+- Power BI
+- Power Query e DAX
+- Excel avançado
+- Pandas
+- Modelagem e análise de dados
+
+*As tecnologias listadas representam áreas de estudo e atuação; o nível de experiência varia conforme a ferramenta.*
+
+## 🎯 Objetivo profissional
+
+Desenvolver soluções de IA que conectem **tecnologia, dados e processos**, transformando oportunidades de automação em aplicações práticas e resultados mensuráveis para as organizações.
 
 ---
 
@@ -68,7 +76,7 @@ Tenho interesse em construir soluções que conectem **dados, tecnologia e proce
 
 **Elivan Lima Junior**
 
-*"Transformando dados em decisões e processos em resultados."*
+*Conectando IA, dados e automação para resolver problemas reais.*
 
 <br>
 
